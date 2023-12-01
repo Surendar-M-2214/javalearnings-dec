@@ -1,4 +1,3 @@
-import java.util.*;
 public class fibb {
     public static void main(String[] args) {
         int[] arr={1,2,3,4,45,67,89,90};
