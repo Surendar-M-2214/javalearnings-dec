@@ -1,3 +1,5 @@
+package classandobjects;
+
 public class classndobj {
     int gender;
     int name;
