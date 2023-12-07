@@ -1,12 +1,9 @@
 package inheritance;
 
-public class inherit extends Box{
+ public class inherit extends Box{
 
-  boolean cow(){
-      System.out.println("MOO");
-      return false;
-  }
- inherit(){
-   cow();
-  }
-}
+     @Override
+     void dog(int n) {
+         System.out.println("bark");
+     }
+ }
