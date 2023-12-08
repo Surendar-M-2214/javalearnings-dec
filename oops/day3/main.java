@@ -19,4 +19,4 @@ public class main {
         vp.name();
         vp.age();
         vp.work();
-}
+}}
