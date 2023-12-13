@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/javalearnings-dec.iml" filepath="$PROJECT_DIR$/.idea/javalearnings-dec.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops.iml" filepath="$PROJECT_DIR$/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_Ques-JAVA/untitled/untitled.iml" filepath="$PROJECT_DIR$/DSA_Ques-JAVA/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_Questions-JAVA/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/DSA_Questions-JAVA/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_Questions-JAVA/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/DSA_Questions-JAVA/untitled2/untitled2.iml" />
       <module fileurl="file://$PROJECT_DIR$/vicky/vicky.iml" filepath="$PROJECT_DIR$/vicky/vicky.iml" />
     </modules>
   </component>
